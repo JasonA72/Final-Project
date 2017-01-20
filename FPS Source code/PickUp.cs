@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+/* Created by: Jason Azevedo
+ * Created on: January 19, 2017
+ * This Script Picks up weapons
+ */
+
+using UnityEngine;
 using System.Collections;
 
 public class PickUp : MonoBehaviour

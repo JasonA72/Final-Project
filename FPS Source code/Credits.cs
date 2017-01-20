@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+/* Created by: Jason Azevedo
+ * Created on: January 19, 2017
+ * This Script creates the back button from the credits
+ */
+
+using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
